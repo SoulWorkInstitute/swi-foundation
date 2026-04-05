@@ -14,6 +14,9 @@ This repository is structured around three foundational documents:
 - [Methodological Framework](./methodological-framework.md)  
   How work is approached, designed, and developed
 
+-- [System Architecture](./system-architecture.md)  
+  Structural design of the ecosystem and how components relate
+
 - (Additional documents will be added as the system evolves)
 
 ---
