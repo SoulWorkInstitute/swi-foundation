@@ -4,14 +4,6 @@ Foundational framework, philosophy, and institutional architecture for SoulWork 
 
 ---
 
-## Overview
-
-This repository serves as the central orientation layer for the SoulWork Institute (SWI) ecosystem.
-
-It holds the conceptual, philosophical, and structural foundations that inform all projects, curriculum, tools, and systems developed within SWI and LightBorn Nexus.
-
----
-
 ## Core Documents
 
 This repository is structured around three foundational documents:
@@ -23,6 +15,14 @@ This repository is structured around three foundational documents:
   How work is approached, designed, and developed
 
 - (Additional documents will be added as the system evolves)
+
+---
+
+## Overview
+
+This repository serves as the central orientation layer for the SoulWork Institute (SWI) ecosystem.
+
+It holds the conceptual, philosophical, and structural foundations that inform all projects, curriculum, tools, and systems developed within SWI and LightBorn Nexus.
 
 ---
 
