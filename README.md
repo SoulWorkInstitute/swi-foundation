@@ -12,6 +12,20 @@ It holds the conceptual, philosophical, and structural foundations that inform a
 
 ---
 
+## Core Documents
+
+This repository is structured around three foundational documents:
+
+- [Foundational Principles](./foundational-principles.md)  
+  Ethical orientation and guiding values
+
+- [Methodological Framework](./methodological-framework.md)  
+  How work is approached, designed, and developed
+
+- (Additional documents will be added as the system evolves)
+
+---
+
 ## Purpose
 
 The purpose of this repository is to:
