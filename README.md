@@ -60,3 +60,11 @@ This repository will expand to include:
 This is an actively evolving foundation.
 
 Structure and content will develop iteratively with clarity, coherence, and long-term integrity as guiding priorities.
+
+---
+
+## Core Documents
+
+- [Foundational Principles](./foundational-principles.md)
+
+These documents articulate the ethical, philosophical, and structural grounding of the SoulWork Institute ecosystem.
